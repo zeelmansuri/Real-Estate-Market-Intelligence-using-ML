@@ -1,8 +1,11 @@
 # Machine Learning Based Buyer Segmentation and Investment Profiling
 
 This project segments real estate buyers for market intelligence using clustering models, customer profiling, and an interactive Streamlit dashboard.
+
+
 Video Link - https://screenapp.io/app/v/0ugf49YEum
-Project Link - 
+
+Project Link - https://late-yaks-ask.loca.lt/ 
 ## Features
 
 - Data cleaning for buyer attributes and duplicate client records
