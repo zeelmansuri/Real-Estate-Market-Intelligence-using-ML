@@ -5,7 +5,6 @@ This project segments real estate buyers for market intelligence using clusterin
 
 Video Link - https://screenapp.io/app/v/0ugf49YEum
 
-Project Link - https://late-yaks-ask.loca.lt/ 
 ## Features
 
 - Data cleaning for buyer attributes and duplicate client records
